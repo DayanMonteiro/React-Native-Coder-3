@@ -1,5 +1,3 @@
-
-
 import React, { Component } from 'react';
 import {
   StyleSheet,
@@ -8,8 +6,6 @@ import {
 } from 'react-native';
 import params from './src/params';
 import Field from './src/components/Field';
-
-
 
 
 export default class App extends Component {
@@ -33,6 +29,9 @@ export default class App extends Component {
               <Field mined />
               <Field mined opened />
               <Field mined opened exploded />
+              <Field flagged />
+              <Field flagged opened />
+            
           </View>
    
 
@@ -45,7 +44,15 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'flex-end'
+    justifyContent: 'center',
+    // justifyContent: "space-around",
+    alignItems: "center",
+    backgroundColor: "#F5FCFF",
+  },
+  welcome: {
+    fontSize: 20,
+    textAlign: "center",
+    margin: 10,
   },
   board: {
     alignItems: 'center',
