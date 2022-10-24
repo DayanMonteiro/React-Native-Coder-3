@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "userCrud.app"
-               BlueprintName = "userCrud"
-               ReferencedContainer = "container:userCrud.xcodeproj">
+               BuildableName = "usercrud.app"
+               BlueprintName = "usercrud"
+               ReferencedContainer = "container:usercrud.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "userCrudTests.xctest"
-               BlueprintName = "userCrudTests"
-               ReferencedContainer = "container:userCrud.xcodeproj">
+               BuildableName = "usercrudTests.xctest"
+               BlueprintName = "usercrudTests"
+               ReferencedContainer = "container:usercrud.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "userCrud.app"
-            BlueprintName = "userCrud"
-            ReferencedContainer = "container:userCrud.xcodeproj">
+            BuildableName = "usercrud.app"
+            BlueprintName = "usercrud"
+            ReferencedContainer = "container:usercrud.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "userCrud.app"
-            BlueprintName = "userCrud"
-            ReferencedContainer = "container:userCrud.xcodeproj">
+            BuildableName = "usercrud.app"
+            BlueprintName = "usercrud"
+            ReferencedContainer = "container:usercrud.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
